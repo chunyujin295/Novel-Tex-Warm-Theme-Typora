@@ -1,0 +1,16 @@
+# 忽略所有文件
+*
+
+# 不忽略这些文件夹和文件
+!.assets/
+!.assets/**
+!novel-tex/
+!novel-tex/**
+!novel-tex-f-d.css
+!novel-tex-n-d.css
+!novel-tex-f-l.css
+!novel-tex-n-l.css
+!novel-tex-n-warm.css
+!LICENSE
+!README.md
+!.gitignore

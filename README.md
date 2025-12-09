@@ -1,0 +1,15 @@
+
+
+> 基于[【Novel Tex】](https://github.com/soryu-ryouji/novel-tex-theme)新增warm主题，且修改字体大小以适配低分辨率屏幕，解决锯齿问题
+
+## 修改记录
+
+#### 2025-12-9
+
+基于Novel-Tex-N-L主题，创建Novel-Tex-N-Warm主题，修改基础主题的字体、背景等。
+
+<img src=".assets/novel-tex-n-warm.png" alt="image-20251209104225632" />
+
+
+
+<div><center><img src="./.assets/PixPin_2025-12-09_10-30-15.png" alt="image-20251209102658109" style="zoom: 67%;" /><br/>增加字体大小，主要解决低分屏下宋体锯齿问题</center></div>
