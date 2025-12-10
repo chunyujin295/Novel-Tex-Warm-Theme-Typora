@@ -1,10 +1,10 @@
-/* 一个>的引言仅为两字符缩进，使用>>的引言为传统引言样式，具有左竖线、左缩进 */
+/* 一个>的引言仅为两字符缩进<现在被我加上竖线了>，使用>>的引言为传统引言样式，具有左竖线、左缩进 */
 blockquote {
   font-style: normal;
   font-family: var(--quote-font), var(--base-Latin-font),
     var(--base-Chinese-font), -apple-system, serif;
   font-size: var(--quote-font-size);
-  /* border-left: 1px solid black; */
+  border-left: 2px solid black;
   padding-left: 4em;
   /* 文字离左边框的距离 */
   padding-right: 4em;

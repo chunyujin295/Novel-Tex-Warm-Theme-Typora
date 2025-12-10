@@ -13,3 +13,5 @@
 
 
 <div><center><img src="./.assets/PixPin_2025-12-09_10-30-15.png" alt="image-20251209102658109" style="zoom: 67%;" /><br/>增加字体大小，主要解决低分屏下宋体锯齿问题</center></div>
+
+<div><center><img src="./.assets/PixPin_2025-12-10_09-11-02.png" alt="image-20251210090806689" /><br/>修改>时竖线不显示问题</center></div>
