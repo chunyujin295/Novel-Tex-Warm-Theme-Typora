@@ -1,20 +1,21 @@
-@charset "UTF-8";
-@import "./novel-tex/basic/include.css";
-@import "./novel-tex/warm/basic-warm-config.css";
+@import "./code-warm.css";
 
 :root {
-  /*
-  目录树颜色
-  */
-  --active-file-bg-color: #f1deae;
-  --active-file-text-color: var(--text-color);
+  --text-color: black;
+  --link-color: #10415b;
 
-  /*
-  界面UI的字体颜色
-  */
-  --item-hover-bg-color: var(--active-file-bg-color);
-  --item-hover-text-color: var(--active-file-text-color);
+  --primary-btn-text-color: black;
+  --bg-color: #faf8f0;
 
-  --code-bg-color: #F9F4E7;
-  --sidebar-bg-color: #F9F4E7;
+  --border-color-rgb: 0, 0, 0;
+
+  --select-text-bg-color: rgb(218, 227, 234);
+  --select-text-font-color: var(--text-color);
+
+  --li-code-bg-color: rgb(238, 238, 238);
+
+  /*改变元字符的颜色，例如 markdown 中的“*”*/
+  --md-char-color: #612b2b;
+  /*改变元内容的颜色，例如 markdown 中的图像文本和链接地址*/
+  --meta-content-color: #12313c;
 }
