@@ -13,4 +13,9 @@
   --select-text-font-color: var(--text-color);
 
   --li-code-bg-color: rgb(238, 238, 238);
+
+  /*改变元字符的颜色，例如 markdown 中的“*”*/
+  --md-char-color: #612b2b;
+  /*改变元内容的颜色，例如 markdown 中的图像文本和链接地址*/
+  --meta-content-color: #12313c;
 }
