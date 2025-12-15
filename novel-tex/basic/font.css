@@ -9,7 +9,7 @@
 
   /* 引言字体设置 */
   --quote-font: var(--base-Latin-font), var(--base-Chinese-font);
-  --quote-font-size: 1.2em;
+  --quote-font-size: 1.0em;
 
   /* 源代码模式字体设置 */
   --sourceMode-font: var(--base-Latin-font), var(--base-Chinese-font);
